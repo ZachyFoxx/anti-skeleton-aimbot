@@ -1,0 +1,4 @@
+main: sh.foxboy.anti_skeleton_aimbot.Plugin
+name: AntiSkeletonAimbot
+version: '1.0'
+description: Bye Bye skeleton accuracy!

@@ -16,11 +16,11 @@ repositories {
 }
 
 dependencies {
-    compileOnly 'org.spigotmc:spigot-api:1.18.2-R0.1-SNAPSHOT'}
+    compileOnly 'org.spigotmc:spigot-api:1.19.1-R0.1-SNAPSHOT'}
 
-group = 'myplugin'
+group = 'anti_skeleton_aimbot'
 version = '0.1.0'
-description = 'myplugin'
+description = 'anti_skeleton_aimbot'
 
 java.sourceCompatibility = JavaVersion.VERSION_16
 
